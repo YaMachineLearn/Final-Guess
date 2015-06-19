@@ -18,8 +18,8 @@ for utterName in utterNameFile:
     # else:
     #     outFile.write(utterName + ',痲\n')
 
-# utterNameFile.close()
-# outFile.close()
+utterNameFile.close()
+outFile.close()
 
 # you 痲
 # the 裚
