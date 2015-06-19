@@ -2,4 +2,4 @@
 *.pyc
 
 # output files
-output/*.csv
+# output/*.csv
