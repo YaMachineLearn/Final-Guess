@@ -1,0 +1,28 @@
+# you 痲
+# the 裚
+# i   騿
+# and 諆
+# is  寋
+# a   篕
+# it  悱
+
+the     7.91589
+i       8.27477
+you     8.24112
+and     8.15140
+is      
+
+the the     7.83364
+the is      7.83925
+the and     7.81308
+and the     7.87850
+the is a it 7.77009
+the is a and to 7.75701
+the is a    7.74206
+the is a and    7.73832
+the a and to    7.69346
+
+100k+   the and     8.04486
+50k+    the and     7.81495
+100k-   the and     8.04486
+50k+    the and     0k+     you     7.80748
