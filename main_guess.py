@@ -1,7 +1,7 @@
 # coding=utf-8
 import os
 
-UTTER_NAME_FILE = "input/utterName.txt"
+UTTER_NAME_FILE = "input/test_utterName.txt"
 OUTPUT_FILE = "output/guess_the_is_a_and.csv"
 WAV_FOLDER = "../MLDS_Final/wav/"
 
